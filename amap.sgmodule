@@ -1,4 +1,4 @@
-#!name=3-高德地图去广告
+#!name=高德地图去广告
 #!desc=需全新应用
 
 # 修改自：https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Amap.conf
@@ -15,7 +15,7 @@
 
 [Script]
 # 这条必须屏蔽，否则模块无效
-# http-response ^http:\/\/amdc\.m\.taobao\.com requires-body=0,script-path=https://raw.githubusercontent.com/kokoryh/Script/master/js/self_use.js
+http-response ^http:\/\/amdc\.m\.taobao\.com requires-body=0,script-path=https://raw.githubusercontent.com/kokoryh/Script/master/js/self_use.js
 # 搜索框热词 | 附近页面 | 我的页面 | 首页右中
 http-response ^https?:\/\/m5\.amap\.com\/ws\/shield\/(search\/(new_hotword|nearbyrec_smart)|dsp\/profile\/index\/nodefaas|frogserver\/aocs\/updatable) requires-body=1,script-path=https://raw.githubusercontent.com/kokoryh/Script/master/js/amap.js
 # 开屏广告 | 首页底部 | 底栏角标

@@ -1,41 +1,41 @@
 # Apple
-DOMAIN, api-adservices.apple.com
-DOMAIN-SUFFIX, iadsdk.apple.com
+DOMAIN,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
 # 安全浏览限制解除
-DOMAIN, lookup.api.bsb.baidu.com
-DOMAIN, proxy.safebrowsing.apple
-DOMAIN, safebrowsing.g.applimg.com
-DOMAIN, safebrowsing.googleapis.com
-DOMAIN, safebrowsing.urlsec.qq.com
-DOMAIN, token.safebrowsing.apple
-DOMAIN, vs6.bj2ct.u3.ucweb.com
-DOMAIN-SUFFIX, safebrowsing.apple
-DOMAIN-SUFFIX, u3.ucweb.com
+DOMAIN,lookup.api.bsb.baidu.com
+DOMAIN,proxy.safebrowsing.apple
+DOMAIN,safebrowsing.g.applimg.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,token.safebrowsing.apple
+DOMAIN,vs6.bj2ct.u3.ucweb.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,u3.ucweb.com
 # 百度
-DOMAIN-SUFFIX, pos.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
 # 百度地图
-DOMAIN, afd.baidu.com
-DOMAIN, afdconf.baidu.com
-DOMAIN, httpdns.baidubce.com
-DOMAIN, lc.map.baidu.com
+DOMAIN,afd.baidu.com
+DOMAIN,afdconf.baidu.com
+DOMAIN,httpdns.baidubce.com
+DOMAIN,lc.map.baidu.com
 # 彩云天气
-DOMAIN, ad.cyapi.cn
+DOMAIN,ad.cyapi.cn
 # 高德地图
-DOMAIN, amap-aos-info-nogw.amap.com
-DOMAIN, awaken.amap.com
-DOMAIN, free-aos-cdn-image.amap.com
+DOMAIN,amap-aos-info-nogw.amap.com
+DOMAIN,awaken.amap.com
+DOMAIN,free-aos-cdn-image.amap.com
 # 广告联盟
-DOMAIN, is.snssdk.com
-DOMAIN, mi.gdt.qq.com
-DOMAIN, open.e.kuaishou.com
-DOMAIN-SUFFIX, pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX, pangolin-sdk-toutiao-b.com
+DOMAIN,is.snssdk.com
+DOMAIN,mi.gdt.qq.com
+DOMAIN,open.e.kuaishou.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 
 # 美团
-DOMAIN, al-log.d.meituan.net
-DOMAIN, babel-statistics-android.d.meituan.net
-DOMAIN, maplocatesdksnapshot.d.meituan.net
-DOMAIN, metrics-picture.d.meituan.net
-DOMAIN, route-stats.d.meituan.net
+DOMAIN,al-log.d.meituan.net
+DOMAIN,babel-statistics-android.d.meituan.net
+DOMAIN,maplocatesdksnapshot.d.meituan.net
+DOMAIN,metrics-picture.d.meituan.net
+DOMAIN,route-stats.d.meituan.net
 # 小米
-DOMAIN, sdkconfig.ad.xiaomi.com
+DOMAIN,sdkconfig.ad.xiaomi.com

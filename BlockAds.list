@@ -4,3 +4,18 @@ DOMAIN,babel-statistics-android.d.meituan.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net
 DOMAIN,metrics-picture.d.meituan.net
 DOMAIN,route-stats.d.meituan.net
+
+# Apple
+DOMAIN,api-adservices.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
+
+# 安全浏览限制解除
+DOMAIN,lookup.api.bsb.baidu.com
+DOMAIN,proxy.safebrowsing.apple
+DOMAIN,safebrowsing.g.applimg.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,token.safebrowsing.apple
+DOMAIN,vs6.bj2ct.u3.ucweb.com
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,u3.ucweb.com

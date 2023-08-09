@@ -19,3 +19,36 @@ DOMAIN,token.safebrowsing.apple
 DOMAIN,vs6.bj2ct.u3.ucweb.com
 DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,u3.ucweb.com
+
+# 百度
+DOMAIN-SUFFIX,pos.baidu.com
+# 百度地图
+DOMAIN,afd.baidu.com
+DOMAIN,afdconf.baidu.com
+DOMAIN,httpdns.baidubce.com
+DOMAIN,lc.map.baidu.com
+
+# Foreca & Google
+DOMAIN,adservice.google.com
+DOMAIN,googleads.g.doubleclick-cn.net
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,pagead2.googlesyndication.com
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,www.googleadservices.com
+DOMAIN-KEYWORD,adservice.google.com
+
+# 高德地图
+DOMAIN,amap-aos-info-nogw.amap.com
+DOMAIN,awaken.amap.com
+DOMAIN,free-aos-cdn-image.amap.com
+
+# 广告联盟
+DOMAIN,is.snssdk.com
+DOMAIN,mi.gdt.qq.com
+DOMAIN,open.e.kuaishou.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+
+# 小米
+DOMAIN,sdkconfig.ad.xiaomi.com
